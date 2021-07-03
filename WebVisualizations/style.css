@@ -52,6 +52,11 @@ p{
 body{
     background-color: rgb(223, 222, 222);
 }
+.col-md-8{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom:40px;
+}
 .col-md-12{
     background-color: white;
     padding-top: 20px;
