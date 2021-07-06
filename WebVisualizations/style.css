@@ -1,4 +1,4 @@
-/* navbar styling*/
+/* navbar styling */
 a.navbar-brand{
     margin-left: 10px;
     padding: 10px;
@@ -6,7 +6,7 @@ a.navbar-brand{
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
 }
-/* content styling*/
+/* content styling */
 .content {
     padding-top: 50px;
     padding-bottom: 80px;
@@ -16,7 +16,7 @@ a.navbar-brand{
 .content.bg-white {
     margin-top: 15px;
 }
-/*footer styling*/
+/* footer styling */
 .page-footer{
     background-color: rgb(92, 90, 90);
     margin-top: 50px;
@@ -24,12 +24,11 @@ a.navbar-brand{
     bottom: 0;
     width: 100%;
 }
-
 .footer-copyright{
     color:white;
     border-top: 5px solid rgb(81, 175, 160)
 }
-/* header styling*/
+/* header styling */
 h3{
     color: rgb(81, 175, 160);
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -41,14 +40,14 @@ h3{
     padding:10px;
     border: none;
 }
-/* fontstyling for text*/
+/* fontstyling for text */
 p{
     text-align: justify;
     font-family: Arial, Helvetica, sans-serif;
     font-size: large;
     padding:10px;
  }
- /* body background*/
+ /* body background */
 body{
     background-color: rgb(223, 222, 222);
 }
@@ -62,11 +61,11 @@ body{
     padding-top: 20px;
     padding-bottom:40px;
 }
-/* image border styling*/
+/* image border styling */
 .pic{
     border: 3px solid rgb(81, 175, 160);
 }
-/* navbar styling*/
+/* navbar styling */
 .navbar{
     max-height: 57px;
     padding-top:0px;
@@ -105,17 +104,18 @@ body{
 .dropdown-menu {
     margin: 0;
 }
-/* content styling*/
+/* content styling */
 .content {
     padding-top: 50px;
     padding-bottom: 80px;
     overflow: hidden;
 }
 
+
 .content.bg-white {
     margin-top: 15px;
 }
-/* table text adjustments*/
+/* table text adjustments */
 tr>th:nth-child(1),
 tr>th:nth-child(3),
 tr>th:nth-child(6),
@@ -132,17 +132,17 @@ tr>td:nth-child(9),
 tr>td:nth-child(10) {
     text-align: right;
 }
-/* small screen adjustments*/
-@media(max-width:767px){
+/* small screen adjustments */
+@media(max-width:768px){
     .navbar.bg-light{
         background-color: rgb(81, 175, 160)!important;    
     }
-
     .navbar-collapse{
         background-color: #f8f9fa;
+    }
+    .nav-link {
+        color: white !important;
     }
     .navbar{
         padding:inherit;
     }
-}
- 
