@@ -61,7 +61,7 @@ body{
     padding-top: 20px;
     padding-bottom:40px;
 }
-/* image border styling */
+/* image border styling  - probably ou might not use it*/
 .pic{
     border: 3px solid rgb(81, 175, 160);
 }
