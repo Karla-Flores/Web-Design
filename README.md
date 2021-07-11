@@ -5,9 +5,10 @@
 <p align = 'justify'>In building this <a href = 'https://karla-flores.github.io/Web-Design--Challenge/'> dashboard, </a> we'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.</p>
 <br>
 <h3>Website Requirements</h3>
-<hr>
- For reference, see the "Screenshots" section below. The website must consist of 7 pages total, including:
-
+<p align = 'justify'>For reference, see the "Screenshots" <a href = 'https://github.com/Karla-Flores/Web-Design--Challenge/tree/main/WebVisualizations'>here.</a> The website must consist of 7 pages total, including:</p>
+<br>
+<table border="0" table-striped table-hover>
+</table>
 A landing page containing:
 
 An explanation of the project. Links to each visualizations page.
