@@ -144,7 +144,12 @@ tr>td:nth-child(10) {
 }
 
 /* small screen adjustments */
-@media(max-width:768px){
+/* here */
+@media 
+only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+
+/* here */
     .navbar.bg-light{
         background-color: rgb(81, 175, 160);    
     }
